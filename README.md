@@ -5,3 +5,5 @@
  - [X] create convolutional network
  - [X] add more layers
  - [ ] implement GPU usage
+
+Implements 2 convolutional layers with ReLU activation, followed by a linear layer, dropout layer, and another linear layer. Finishes with a softmax activation function.
